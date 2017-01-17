@@ -225,7 +225,8 @@ To add, remove or change things on the list: please submit a pull request.
 * [Killing the "Lucky Indie" myth: How to build a sustainable microstudio](https://www.youtube.com/watch?v=1BCg31KVJok&feature=youtu.be) :tv:.
 * [An App launch guide](https://github.com/adamwulf/app-launch-guide/blob/master/README.md).
 * [Developing simple and appealing games](http://www.voidbee.com/blog/develop-simple-and-appealing-games).
-* [Project planning for solo gamedev](http://hacknplan.com/project-planning-for-solo-game-developers/).
+* [Project planning for solo gamedev](http://
+nplan.com/project-planning-for-solo-game-developers/).
 * [Understanding vertical slicing](http://hacknplan.com/understanding-vertical-slicing).
 * [Spiral model for game development](http://gamedevelopertips.com/spiral-model-for-game-development/).
 * [Crunch: the failure of project management in the games industry](http://www.openthesis.org/document/view/602718_0.pdf).
@@ -398,6 +399,7 @@ To add, remove or change things on the list: please submit a pull request.
 * [Make infographics easily](http://www.easel.ly/).
 * [Make diagrams easily](https://www.draw.io/).
 * [HacknPlan](http://hacknplan.com/), project management for gamedev.
+* [Codecks](https://www.codecks.io), project management tool inspired by collectible card games.
 
 ## Social
 
